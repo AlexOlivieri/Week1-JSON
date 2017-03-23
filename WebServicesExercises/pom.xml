@@ -5,12 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>WebServicesExercises</name>
   
+  <!-- The information from the maven repository must go inside the tags dependencies -->
   <dependencies>
-	<!-- https://mvnrepository.com/artifact/org.json/json -->
-	<dependency>
-	    <groupId>org.json</groupId>
-	    <artifactId>json</artifactId>
-	    <version>20160810</version>
-	</dependency>
+	
   </dependencies>
 </project>
